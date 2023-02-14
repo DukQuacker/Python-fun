@@ -1,0 +1,1 @@
+Today was all about varable and how to make them based on string, int, or float. The best part was how easy it is it find things in strings without needing a forloop.
