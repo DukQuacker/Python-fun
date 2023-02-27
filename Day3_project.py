@@ -1,7 +1,7 @@
 #simple project to use imput if statements, user_inputs and imports
 #You will need the Pillow library to be able to run this program.
 
-from PIL import Image
+import PIL
 
 print("Welcome adventurer to the world of university")
 print("It looks like you have a paper due in 2 days and you still have yet to work on it.")
@@ -23,6 +23,7 @@ elif user_input == 4:
     print("You leave your room with all your belongings and go live your best life free of the paper")
 else:
     print("You put in the wrong input that you never thought of and the paper explodes in front of you")
+
 
 
 
