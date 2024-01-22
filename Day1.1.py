@@ -15,4 +15,3 @@ Name = Name.strip().title()
 #Name = Name.title()
 
 print(f"hello, {Name}")
-
